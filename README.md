@@ -8,7 +8,7 @@ This repository was used to strengthen my understanding of **webpage structure, 
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 - **HTML5** — Webpage structure
 - **CSS3** — Styling and layout
@@ -17,7 +17,7 @@ This repository was used to strengthen my understanding of **webpage structure, 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 web-dev-bootcamp/
