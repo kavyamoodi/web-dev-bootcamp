@@ -1,33 +1,19 @@
 # Web Development Bootcamp
 
-### Web Development Practice Project
+### Frontend Web Development Practice
 
-A web development project created while learning and practicing core concepts of **HTML, CSS, and JavaScript**.
+A web development practice repository focused on exploring fundamental **HTML, CSS, and JavaScript** concepts through a structured frontend application.
 
-The project focuses on building an interactive web application and understanding how frontend technologies work together to create a functional user interface.
-
----
-
-## 🚀 Features
-
-- 🖥️ Interactive web interface
-- 🎨 Custom styling using CSS
-- ⚡ JavaScript-based interactions
-- 🔊 Audio integration
-- 🖼️ Image and media assets
-- 📱 Structured frontend layout
-- 🐳 Docker support
+This repository was used to strengthen my understanding of **webpage structure, styling, JavaScript-based functionality, media assets, and basic project organization**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
-| Technology | Purpose |
-| --- | --- |
-| HTML5 | Web page structure |
-| CSS3 | Styling and layout |
-| JavaScript | Application logic and interactions |
-| Docker | Containerization |
+- **HTML5** — Webpage structure
+- **CSS3** — Styling and layout
+- **JavaScript** — Client-side functionality
+- **Docker** — Container configuration
 
 ---
 
@@ -36,10 +22,10 @@ The project focuses on building an interactive web application and understanding
 ```text
 web-dev-bootcamp/
 │
-├── images/          # Image and visual assets
+├── images/          # Image assets
 ├── sounds/          # Audio assets
-├── index.html       # Main webpage
-├── styles.css       # Styling and layout
+├── index.html       # Main HTML page
+├── styles.css       # Stylesheet
 ├── index.js         # JavaScript functionality
 ├── Dockerfile       # Docker configuration
 └── README.md        # Project documentation
